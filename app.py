@@ -21,7 +21,7 @@ st.markdown(
         max-width: 300px;
         text-align: center;
         padding: 0.8em 1.2em;
-        margin: 10px auto;
+        margin: 5px auto;
         background-color: #d4a762;
         color: white !important;
         border-radius: 50px;
@@ -92,23 +92,14 @@ st.markdown(
 
 st.markdown(
     """
-    <a class="link-button" href="https://instagram.com/seuperfil" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20">
-        Instagram
-    </a>
-    """,
-    unsafe_allow_html=True
-)
-
-st.markdown(
-    """
-    <a class="link-button" href="mailto:contato@luznascente.com" target="_blank">
+    <a class="link-button" href="mailto:luznascentefotografia@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="20">
         Contato
     </a>
     """,
     unsafe_allow_html=True
 )
+
 
 st.write("---")
 
@@ -127,7 +118,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<p class="footer-text">Feito com 💛 por Luz Nascente</p>',
+    '<p class="footer-text">Feito com 💛 por Giovanna Magnani</p>',
     unsafe_allow_html=True
 )
 
