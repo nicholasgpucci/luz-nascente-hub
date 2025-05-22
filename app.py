@@ -72,7 +72,7 @@ st.markdown(
 
 
 st.markdown(
-    '<p style="text-align: center; font-size: 18px; font-weight: normal;">Bem-vindo! Escolha abaixo:</p>',
+    '<p style="text-align: center; font-size: 18px; font-weight: normal;">a poesia do nascer e do viver em cada fotografia</p>',
     unsafe_allow_html=True
 )
 
